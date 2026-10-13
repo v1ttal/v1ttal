@@ -7,7 +7,7 @@
 
 ## 💫 About Me:
 
-🎓 **MSc in Data Science & Statistical Learning**, University of Limerick, Ireland (Scholarship Awardee)<br>
+🎓 **MSc Graduate in Data Science & Statistical Learning**, University of Limerick, Ireland (Scholarship Awardee)<br>
 💼 **Ex-Automotive Data Intern @ ClearQuote**: analysed 122,000+ records through EDA and built KPI and data-quality dashboards<br>
 🔬 Dissertation on **Machine Learning–Interpolation for pharmaceutical manufacturing** (Twin-Screw Granulation)<br>
 🏆 **Top 10%** of my B.Tech (IT) cohort · **3 research publications**<br>
